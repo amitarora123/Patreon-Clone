@@ -23,11 +23,6 @@ npm start
    https://patreon-clone-lovat.vercel.app/
 ```
 
-## Contributors
-- [Shiwam Tiwari](https://github.com/shiwam-C114)
-- [Damodar Gupta P S](https://github.com/damodarkolar)
-- [Atharva Tribhuwane](https://github.com/atharva-tribhuwane)
-- [Mohit Soni](https://github.com/sonimohit481)
 
 ## Tech Stack
 - React
